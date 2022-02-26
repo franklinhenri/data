@@ -1,51 +1,4 @@
 {
-  "cards": [
-    {
-      "id": 1,
-      "titulo": "iPhone 12",
-      "preco": 4550,
-      "imagemUrl": "https://i.imgur.com/7Ifqfyr.png",
-      "cor": "Vermelho",
-      "qualidade": "Novo",
-      "modelo": 3
-    },
-    {
-      "id": 2,
-      "titulo": "iPhone 12 mini",
-      "preco": 4550,
-      "imagemUrl": "https://i.imgur.com/Ez30Tfr.png",
-      "cor": "Verde",
-      "qualidade": "Novo",
-      "modelo": 4
-    },
-    {
-      "id": 3,
-      "titulo": "iPhone 8 plus",
-      "preco": 2100,
-      "imagemUrl": "https://i.imgur.com/fHwR7AO.png",
-      "cor": "Verde",
-      "qualidade": "Vermelho",
-      "modelo": 6
-    },
-    {
-      "id": 4,
-      "titulo": "iPhone 13 Pro Max",
-      "preco": "10000",
-      "imagemUrl": "https://i.imgur.com/F0Iys4Y.png",
-      "cor": "Preto",
-      "qualidade": "Novo",
-      "modelo": 1
-    },
-    {
-      "id": 5,
-      "titulo": "iPhone 11",
-      "preco": "3300",
-      "imagemUrl": "https://i.imgur.com/kviFlAm.png",
-      "cor": "branco",
-      "qualidade": "Novo",
-      "modelo": 2
-    }
-  ],
   "modelos": [
     {
       "id": 1,
@@ -91,7 +44,7 @@
       "imagens4": "https://i.imgur.com/akEM14Q.jpg",
       "imagens5": "https://i.imgur.com/0eo3sXa.jpg",
       "conteudo": "https://i.imgur.com/hXr5YIG.png",
-      "descricao": "O novo iPhone 13 Pro Max È o mais completo da geraÁ„o 2021 da Apple. Ele tem um design bastante similar ao do iPhone 12 Pro Max, mas conta com melhorias em c‚mera, bateria e um notch menor. A famÌlia iPhone 13 È equipada com o novo chipset A15 Bionic da Apple, que apesar de manter o processo de fabricaÁ„o de 5 nm, promete melhorias substanciais de desempenho frente ao A14 Bionic.",
+      "descricao": "O novo iPhone 13 Pro Max √© o mais completo da gera√ß√£o 2021 da Apple. Ele tem um design bastante similar ao do iPhone 12 Pro Max, mas conta com melhorias em c√¢mera, bateria e um notch menor. A fam√≠lia iPhone 13 √© equipada com o novo chipset A15 Bionic da Apple, que apesar de manter o processo de fabrica√ß√£o de 5 nm, promete melhorias substanciais de desempenho frente ao A14 Bionic.",
       "fichaTecnica": "https://www.apple.com/br/iphone-13-pro/specs/"
     },
     {
@@ -138,7 +91,7 @@
       "imagens4": "https://i.imgur.com/FmwLReY.jpg",
       "imagens5": "https://i.imgur.com/Vf9gKss.jpg",
       "conteudo": "https://i.imgur.com/k6UhvFQ.png",
-      "descricao": "o smartphone est· disponÌvel nas cores preto, verde, amarelo, lil·s, vermelho e branco e nas versıes 64GB, 128GB e 256GB. Sua ficha tÈcnica inclui o novo processador Apple A13 Bionic, que promete ser a CPU mais r·pida para celulares. AlÈm disso, ele conta com c‚mera dupla de 12 MP e filma em 4K, com estabilizaÁ„o de imagem. A c‚mera tambÈm permite tirar fotos com boa resoluÁ„o mesmo em ambientes pouco iluminados, graÁas ao modo noite. O modelo chega para substituir o iPhone XR, vers„o mais barata anunciada em 2018, e oferece bateria com uma hora a mais de duraÁ„o. Com certificado IP68, o iPhone 11 È resistente a poeira e respingos de ·gua.",
+      "descricao": "o smartphone est√° dispon√≠vel nas cores preto, verde, amarelo, lil√°s, vermelho e branco e nas vers√µes 64GB, 128GB e 256GB. Sua ficha t√©cnica inclui o novo processador Apple A13 Bionic, que promete ser a CPU mais r√°pida para celulares. Al√©m disso, ele conta com c√¢mera dupla de 12 MP e filma em 4K, com estabiliza√ß√£o de imagem. A c√¢mera tamb√©m permite tirar fotos com boa resolu√ß√£o mesmo em ambientes pouco iluminados, gra√ßas ao modo noite. O modelo chega para substituir o iPhone XR, vers√£o mais barata anunciada em 2018, e oferece bateria com uma hora a mais de dura√ß√£o. Com certificado IP68, o iPhone 11 √© resistente a poeira e respingos de √°gua.",
       "fichaTecnica": "https://www.apple.com/br/iphone-11/specs/"
     },
     {
@@ -185,7 +138,7 @@
       "imagens4": "https://i.imgur.com/KHvj8MB.jpg",
       "imagens5": "https://i.imgur.com/k4yfCAn.jpg",
       "conteudo": "https://i.imgur.com/mi4P4kz.png",
-      "descricao": "conta com certificaÁ„o IP68, o que garante proteÁ„o contra poeira e respingos de ·gua, podendo ser submergido atÈ 1 metro de profundidade por 30 minutos. Agora, o topo de linha da MaÁ„ conta com uma tela OLED (Super Retina XDR), trazendo grande contraste, melhor brilho e maior qualidade de imagem. Com o chipset A14 Bionic, o iPhone 12 roda qualquer aplicativo, seja um jogo mais pesado ou algum voltado para ediÁ„o de vÌdeos ou fotos, o celular d· conta do recado com folga. A bateria de 2.815 mAh consegue durar um bom tempo, chegando atÈ o final do dia, dependendo do modo de uso.",
+      "descricao": "conta com certifica√ß√£o IP68, o que garante prote√ß√£o contra poeira e respingos de √°gua, podendo ser submergido at√© 1 metro de profundidade por 30 minutos. Agora, o topo de linha da Ma√ß√£ conta com uma tela OLED (Super Retina XDR), trazendo grande contraste, melhor brilho e maior qualidade de imagem. Com o chipset A14 Bionic, o iPhone 12 roda qualquer aplicativo, seja um jogo mais pesado ou algum voltado para edi√ß√£o de v√≠deos ou fotos, o celular d√° conta do recado com folga. A bateria de 2.815 mAh consegue durar um bom tempo, chegando at√© o final do dia, dependendo do modo de uso.",
       "fichaTecnica": "https://www.apple.com/br/iphone-12/specs/"
     },
     {
@@ -232,7 +185,7 @@
       "imagens4": "https://i.imgur.com/KHvj8MB.jpg",
       "imagens5": "https://i.imgur.com/k4yfCAn.jpg",
       "conteudo": "https://i.imgur.com/mi4P4kz.png",
-      "descricao": "conta com certificaÁ„o IP68, o que garante proteÁ„o contra poeira e respingos de ·gua, podendo ser submergido atÈ 1 metro de profundidade por 30 minutos. Agora, o topo de linha da MaÁ„ conta com uma tela OLED (Super Retina XDR), trazendo grande contraste, melhor brilho e maior qualidade de imagem. Com o chipset A14 Bionic, o iPhone 12 roda qualquer aplicativo, seja um jogo mais pesado ou algum voltado para ediÁ„o de vÌdeos ou fotos, o celular d· conta do recado com folga. A bateria de 2.815 mAh consegue durar um bom tempo, chegando atÈ o final do dia, dependendo do modo de uso.",
+      "descricao": "conta com certifica√ß√£o IP68, o que garante prote√ß√£o contra poeira e respingos de √°gua, podendo ser submergido at√© 1 metro de profundidade por 30 minutos. Agora, o topo de linha da Ma√ß√£ conta com uma tela OLED (Super Retina XDR), trazendo grande contraste, melhor brilho e maior qualidade de imagem. Com o chipset A14 Bionic, o iPhone 12 roda qualquer aplicativo, seja um jogo mais pesado ou algum voltado para edi√ß√£o de v√≠deos ou fotos, o celular d√° conta do recado com folga. A bateria de 2.815 mAh consegue durar um bom tempo, chegando at√© o final do dia, dependendo do modo de uso.",
       "fichaTecnica": "https://www.apple.com/br/iphone-12/specs/"
     },
     {
@@ -279,7 +232,7 @@
       "imagens4": "https://i.imgur.com/ZNEKXCs.jpg",
       "imagens5": "https://i.imgur.com/JMK9AoL.jpg",
       "conteudo": "https://i.imgur.com/Eoa2NWh.png",
-      "descricao": "Ele tem um design bastante similar ao do iPhone 12, mas conta com melhorias em c‚mera, bateria e um notch menor. A famÌlia iPhone 13 È equipada com o novo chipset A15 Bionic da Apple, que apesar de manter o processo de fabricaÁ„o de 5 nm, promete melhorias substanciais de desempenho frente ao A14 Bionic. A soluÁ„o conta com 15 bilhıes de transistores e 6 n˙cleos, sendo 2 de alto desempenho e 4 de baixo consumo, redesenhados para oferecer performance \"atÈ 50% superior\" comparado aos concorrentes.",
+      "descricao": "Ele tem um design bastante similar ao do iPhone 12, mas conta com melhorias em c√¢mera, bateria e um notch menor. A fam√≠lia iPhone 13 √© equipada com o novo chipset A15 Bionic da Apple, que apesar de manter o processo de fabrica√ß√£o de 5 nm, promete melhorias substanciais de desempenho frente ao A14 Bionic. A solu√ß√£o conta com 15 bilh√µes de transistores e 6 n√∫cleos, sendo 2 de alto desempenho e 4 de baixo consumo, redesenhados para oferecer performance \"at√© 50% superior\" comparado aos concorrentes.",
       "fichaTecnica": "https://www.apple.com/br/iphone-13/specs/"
     },
     {
@@ -326,7 +279,7 @@
       "imagens4": "null",
       "imagens5": "null",
       "conteudo": "null",
-      "descricao": "O Apple iPhone 8 Plus È um smartphone iOS avanÁado e abrangente em todos os pontos de vista com algumas caracterÌsticas excelentes. Tem uma grande tela de 5.5 polegadas com uma resoluÁ„o de 1920x1080 pixels. As funcionalidades oferecidas pelo Apple iPhone 8 Plus s„o muitas e inovadoras. ComeÁando pelo LTE 4G que permite a transferÍncia de dados e excelente navegaÁ„o na internet. Enfatizamos a excelente memÛria interna de 256 GB mas sem a possibilidade de expans„o. Respeit·vel a c‚mera de 12 megapixels que permite ao Apple iPhone 8 Plus tirar fotos com uma resoluÁ„o de 4608x2592 pixels e gravar vÌdeos em 4K a espantosa resoluÁ„o de 3840x2160 pixels. Muito fino, 7.5 milÌmetros, o que torna o Apple iPhone 8 Plus realmente interessante.",
+      "descricao": "O Apple iPhone 8 Plus √© um smartphone iOS avan√ßado e abrangente em todos os pontos de vista com algumas caracter√≠sticas excelentes. Tem uma grande tela de 5.5 polegadas com uma resolu√ß√£o de 1920x1080 pixels. As funcionalidades oferecidas pelo Apple iPhone 8 Plus s√£o muitas e inovadoras. Come√ßando pelo LTE 4G que permite a transfer√™ncia de dados e excelente navega√ß√£o na internet. Enfatizamos a excelente mem√≥ria interna de 256 GB mas sem a possibilidade de expans√£o. Respeit√°vel a c√¢mera de 12 megapixels que permite ao Apple iPhone 8 Plus tirar fotos com uma resolu√ß√£o de 4608x2592 pixels e gravar v√≠deos em 4K a espantosa resolu√ß√£o de 3840x2160 pixels. Muito fino, 7.5 mil√≠metros, o que torna o Apple iPhone 8 Plus realmente interessante.",
       "fichaTecnica": "https://support.apple.com/kb/SP768?locale=pt_PT"
     }
   ]
