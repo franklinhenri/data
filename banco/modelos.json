@@ -1,4 +1,4 @@
-"modelos": [
+{"modelos": [
     {
       "id": 1,
       "nome": "iPhone 13 Pro Max",
@@ -282,3 +282,4 @@
       "fichaTecnica": "https://support.apple.com/kb/SP768?locale=pt_PT"
     }
   ]
+}
