@@ -1,47 +1,47 @@
 [
   {
-    "id": "1",
+    "id": 1,
     "titulo": "iPhone 12",
     "preco": 4550,
     "imagemUrl": "https://i.imgur.com/7Ifqfyr.png",
     "cor": "Vermelho",
     "qualidade": "Novo",
-    "modelo": 3
+    "modelo": "3"
   },
   { 
-    "id": "2",
+    "id": 2,
     "titulo": "iPhone 12 mini",
     "preco": 4550,
     "imagemUrl": "https://i.imgur.com/Ez30Tfr.png",
     "cor": "Verde",
     "qualidade": "Novo",
-    "modelo": 4
+    "modelo": "4"
   },
   {
-    "id": "3",
+    "id": 3,
     "titulo": "iPhone 8 plus",
     "preco": 2100,
     "imagemUrl": "https://i.imgur.com/fHwR7AO.png",
     "cor": "Verde",
     "qualidade": "Vermelho",
-    "modelo": 6
+    "modelo": "6"
   },
   {
-    "id": "4",
+    "id": 4,
     "titulo": "iPhone 13 Pro Max",
     "preco": "10000",
     "imagemUrl": "https://i.imgur.com/F0Iys4Y.png",
     "cor": "Preto",
     "qualidade": "Novo",
-    "modelo": 1
+    "modelo": "1"
   },
   {
-    "id": "5",
+    "id": 5,
     "titulo": "iPhone 11",
     "preco": "3300",
     "imagemUrl": "https://i.imgur.com/kviFlAm.png",
     "cor": "branco",
     "qualidade": "Novo",
-    "modelo": 2
+    "modelo": "2"
   }
 ]
