@@ -1,6 +1,6 @@
 [
     {
-      "id": "1",
+      "id": 1,
       "nome": "iPhone 13 Pro Max",
       "qntArm": "4",
       "qntCores": "4",
@@ -47,7 +47,7 @@
       "fichaTecnica": "https://www.apple.com/br/iphone-13-pro/specs/"
     },
     {
-      "id": "2",
+      "id": 2,
       "nome": "iPhone 11",
       "qntArm": "2",
       "qntCores": "6",
@@ -94,7 +94,7 @@
       "fichaTecnica": "https://www.apple.com/br/iphone-11/specs/"
     },
     {
-      "id": "3",
+      "id": 3,
       "nome": "iPhone 12",
       "qntArm": "3",
       "qntCores": "6",
@@ -141,7 +141,7 @@
       "fichaTecnica": "https://www.apple.com/br/iphone-12/specs/"
     },
     {
-      "id": "4",
+      "id": 4,
       "nome": "iPhone 12 mini",
       "qntArm": "3",
       "qntCores": "6",
@@ -188,7 +188,7 @@
       "fichaTecnica": "https://www.apple.com/br/iphone-12/specs/"
     },
     {
-      "id": "5",
+      "id": 5,
       "nome": "iPhone 13",
       "qntArm": "3",
       "qntCores": "5",
@@ -235,7 +235,7 @@
       "fichaTecnica": "https://www.apple.com/br/iphone-13/specs/"
     },
     {
-      "id": "6",
+      "id": 6,
       "nome": "iPhone 8 Plus",
       "qntArm": "3",
       "qntCores": "4",
